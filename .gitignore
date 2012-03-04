@@ -1,5 +1,8 @@
-lib/
+game.min.js
+lib/impact/
+lib/plugins/
+lib/weltmeister
 tools/
+index.html
 weltmeister.html
 LICENSE.TXT
-index.html
